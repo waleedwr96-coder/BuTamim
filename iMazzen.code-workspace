@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "iMazzen",
+			"path": "../../Документы/iMazzen"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "iMazzen",
+		"liveServer.settings.port": 5501
+	}
+}
